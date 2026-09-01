@@ -255,33 +255,17 @@
 
 ## What I'm building
 
-| | |
-|:--|:--|
-| **Currently building** | Production-ready SaaS, marketplace, and AI-native products |
-| **Engineering focus** | Full-stack architecture, scalable APIs, secure data workflows, and modern web applications |
-| **Working with** | React, Next.js, TypeScript, Node.js, Supabase, PostgreSQL, and Python |
-| **Interested in** | AI-native product engineering and scalable digital platforms |
+<p align="center">
+  <img src="./assets/graphics/what-im-building.svg" width="100%" alt="What Shabbir Hussain is currently building, his engineering focus, technology stack, and product interests" />
+</p>
 
 <br />
 
 ## Engineering highlights
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>01 · End-to-end delivery</strong><br /><br />
-      Product thinking from architecture and interface design through implementation, validation, and cloud deployment.
-    </td>
-    <td width="33%" valign="top">
-      <strong>02 · Platform architecture</strong><br /><br />
-      Multi-role applications, multilingual experiences, data-driven dashboards, API services, and real-time product workflows.
-    </td>
-    <td width="33%" valign="top">
-      <strong>03 · Secure foundations</strong><br /><br />
-      Authentication, authorization, PostgreSQL row-level security, protected operations, and maintainable application boundaries.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/graphics/engineering-highlights.svg" width="100%" alt="Engineering highlights covering end-to-end delivery, platform architecture, and secure foundations" />
+</p>
 
 <br />
 
