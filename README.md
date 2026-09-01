@@ -34,7 +34,7 @@
 ## Selected work
 
 <p>
-  Five selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
+  Ten selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
 </p>
 
 <table>
@@ -131,6 +131,90 @@
         <a href="https://www.naseebcapati.com/"><strong>Live product ↗</strong></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/shabbirdeveloper/RestaurantplatformandManagementSystem"><strong>Repository ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.rego.services/">
+        <img src="./assets/projects/rego.webp" width="100%" alt="REGO Gilgit-Baltistan tourism marketplace homepage" />
+      </a>
+      <h3 align="center">REGO</h3>
+      <p align="center"><strong>Gilgit-Baltistan digital tourism marketplace</strong></p>
+      <p>
+        A unified discovery and booking experience for hotels, tours, transport, guides, homestays, activities, and trusted local travel partners across Gilgit-Baltistan.
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>Tourism Marketplace</code> <code>Booking UX</code> <code>Search</code>
+      </p>
+      <p align="center">
+        <a href="https://www.rego.services/"><strong>Live marketplace ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://skardutravelplanner.com/">
+        <img src="./assets/projects/skardu-travel-planner.webp" width="100%" alt="Skardu Travel Planner homepage" />
+      </a>
+      <h3 align="center">Skardu Travel Planner</h3>
+      <p align="center"><strong>Northern Pakistan travel planning platform</strong></p>
+      <p>
+        A destination-led travel experience for customized tours, hotels, transport, visa assistance, local guides, and trip planning across Skardu, Hunza, and Gilgit-Baltistan.
+      </p>
+      <p align="center">
+        <code>Tourism Platform</code> <code>Trip Planning</code> <code>Booking UX</code> <code>Responsive Web</code>
+      </p>
+      <p align="center">
+        <a href="https://skardutravelplanner.com/"><strong>Live platform ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.restoranalkhalifa.com/">
+        <img src="./assets/projects/al-khalifa.webp" width="100%" alt="Al Khalifa Signature restaurant homepage" />
+      </a>
+      <h3 align="center">Al Khalifa Signature</h3>
+      <p align="center"><strong>Premium Arabic restaurant experience</strong></p>
+      <p>
+        A polished multilingual restaurant platform featuring authentic Arabic cuisine, digital menus, table reservations, event services, catering, galleries, and direct customer ordering journeys.
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>Restaurant Platform</code> <code>Reservations</code> <code>Multilingual UI</code>
+      </p>
+      <p align="center">
+        <a href="https://www.restoranalkhalifa.com/"><strong>Live website ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://arifaoverseas.my/">
+        <img src="./assets/projects/arifa-overseas.webp" width="100%" alt="Arifa Overseas corporate website homepage" />
+      </a>
+      <h3 align="center">Arifa Overseas</h3>
+      <p align="center"><strong>Construction and workforce corporate platform</strong></p>
+      <p>
+        A corporate web presence presenting construction, skilled manpower supply, maintenance services, project capabilities, careers, certifications, and company leadership across Malaysia.
+      </p>
+      <p align="center">
+        <code>Corporate Platform</code> <code>Construction</code> <code>Manpower Services</code> <code>Responsive Web</code>
+      </p>
+      <p align="center">
+        <a href="https://arifaoverseas.my/"><strong>Live website ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.northdigitaltech.com/">
+        <img src="./assets/projects/northdigital-tech.webp" width="100%" alt="NorthDigital Tech official portfolio homepage" />
+      </a>
+      <h3 align="center">NorthDigital Tech</h3>
+      <p align="center"><strong>Official software house portfolio</strong></p>
+      <p>
+        The official company portfolio for software, website, app, AI, e-commerce, SEO, and digital growth services—built around clear service discovery and project conversion journeys.
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>Software Portfolio</code> <code>Service Platform</code> <code>Responsive UI</code>
+      </p>
+      <p align="center">
+        <a href="https://www.northdigitaltech.com/"><strong>Official portfolio ↗</strong></a>
       </p>
     </td>
   </tr>
