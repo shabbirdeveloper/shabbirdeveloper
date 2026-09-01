@@ -4,12 +4,13 @@ The profile gallery uses public-facing product imagery only. Never add dashboard
 
 ## Current assets
 
+- `mytnr.jpg` — public repository hero artwork for the MyTNR platform at `https://www.mytnr.org/`.
 - `northfxtrade.png` — public NorthFXTrade homepage at `https://northfxtradegb.vercel.app/`.
 - `shia-taleem.png` — public SHIA TALEEM homepage at `https://shiataleem4.vercel.app/en`.
 - `swissproperty.png` — public SwissProperty homepage at `https://swisproperty.vercel.app/`.
 - `naseeb-chapati.png` — public Naseeb Chapati homepage at `https://www.naseebcapati.com/`.
 
-All four images were captured from public deployments at a desktop viewport and are optimized for the two-column GitHub gallery.
+The four product screenshots were captured from public deployments at a desktop viewport. MyTNR uses its repository-owned public hero artwork because the live animated homepage does not produce a stable clean capture. All assets are optimized for the GitHub gallery.
 
 ## Adding another project
 

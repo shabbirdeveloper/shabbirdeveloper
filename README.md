@@ -34,10 +34,38 @@
 ## Selected work
 
 <p>
-  Four selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
+  Five selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
 </p>
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <table>
+        <tr>
+          <td width="50%" valign="middle">
+            <a href="https://www.mytnr.org/">
+              <img src="./assets/projects/mytnr.jpg" width="100%" alt="MyTNR digital community and organization management platform" />
+            </a>
+          </td>
+          <td width="50%" valign="middle">
+            <h3 align="center">MyTNR · Flagship Community Platform</h3>
+            <p align="center"><strong>Digital community and organization management</strong></p>
+            <p>
+              A production platform for Tehreek-e-Nojawanan Roundu supporting member registration, verification and approval, role-based administration, organizational leadership, opportunities, application workflows, notifications, directories, and reporting.
+            </p>
+            <p align="center">
+              <code>Next.js</code> <code>React</code> <code>Supabase</code> <code>Framer Motion</code> <code>Cloudinary</code>
+            </p>
+            <p align="center">
+              <a href="https://www.mytnr.org/"><strong>Live platform ↗</strong></a>
+              &nbsp;·&nbsp;
+              <a href="https://github.com/tnrorg/mytnrorg"><strong>Repository ↗</strong></a>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://northfxtradegb.vercel.app/">
