@@ -11,13 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.northdigitaltech.com/"><img src="https://img.shields.io/badge/Portfolio-NorthDigital_Tech-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Shabbir Hussain's portfolio" /></a>
-  <a href="https://www.linkedin.com/in/shabbir-hussain-88a959290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Shabbir Hussain on LinkedIn" /></a>
-  <a href="mailto:northdigitaltech@gmail.com"><img src="https://img.shields.io/badge/Email-Start_a_conversation-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Shabbir Hussain via NorthDigital Tech" /></a>
-  <a href="https://github.com/shabbirdeveloper"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow shabbirdeveloper on GitHub" /></a>
-</p>
-
-<p align="center">
   <img src="./assets/graphics/engineering-flow.svg" width="100%" alt="Animated engineering workflow from idea through architecture, build, validation, and shipping" />
 </p>
 
