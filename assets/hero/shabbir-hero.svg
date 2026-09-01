@@ -23,9 +23,30 @@
     </filter>
   </defs>
 
+  <style>
+    #ambientGlow { animation: ambient 6s ease-in-out infinite; transform-origin: center; }
+    #statusPulse { animation: pulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    #codeCursor { animation: blink 1.15s steps(1, end) infinite; }
+    @keyframes ambient {
+      0%, 100% { opacity: .72; transform: scale(.96); }
+      50% { opacity: 1; transform: scale(1.05); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: .7; transform: scale(.82); }
+      50% { opacity: 1; transform: scale(1.35); }
+    }
+    @keyframes blink {
+      0%, 46% { opacity: 1; }
+      47%, 100% { opacity: 0; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      #ambientGlow, #statusPulse, #codeCursor { animation: none; }
+    }
+  </style>
+
   <rect width="1200" height="440" rx="28" fill="url(#background)"/>
   <rect width="1200" height="440" rx="28" fill="url(#grid)"/>
-  <circle cx="1002" cy="118" r="250" fill="url(#glow)"/>
+  <circle id="ambientGlow" cx="1002" cy="118" r="250" fill="url(#glow)"/>
   <circle cx="98" cy="452" r="190" fill="#2F81F7" opacity="0.065"/>
   <rect x="1" y="1" width="1198" height="438" rx="27" fill="none" stroke="#263244"/>
 
@@ -105,6 +126,7 @@
         <text x="0" y="160" fill="#64748B">06</text>
         <text x="54" y="160" fill="#7DD3FC">mindset:</text>
         <text x="133" y="160" fill="#A7F3D0">&quot;keep shipping&quot;</text>
+        <rect id="codeCursor" x="277" y="146" width="8" height="18" rx="1" fill="#2DD4BF"/>
 
         <text x="0" y="192" fill="#64748B">07</text>
         <text x="34" y="192" fill="#E2E8F0">};</text>
@@ -112,7 +134,7 @@
 
       <g transform="translate(28 286)">
         <rect width="349" height="26" rx="8" fill="#0D211F" stroke="#1E514A"/>
-        <circle cx="16" cy="13" r="4" fill="#2DD4BF"/>
+        <circle id="statusPulse" cx="16" cy="13" r="4" fill="#2DD4BF"/>
         <text x="29" y="17" fill="#8EE6DA" font-size="11" font-weight="700" letter-spacing="1.2">SYSTEM STATUS</text>
         <text x="328" y="17" text-anchor="end" fill="#D4FFF8" font-size="11" font-weight="800">SHIPPING</text>
       </g>

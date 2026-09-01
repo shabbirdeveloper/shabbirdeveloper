@@ -17,6 +17,10 @@
   <a href="https://github.com/shabbirdeveloper"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow shabbirdeveloper on GitHub" /></a>
 </p>
 
+<p align="center">
+  <img src="./assets/graphics/engineering-flow.svg" width="100%" alt="Animated engineering workflow from idea through architecture, build, validation, and shipping" />
+</p>
+
 <br />
 
 ## Engineering identity
@@ -30,7 +34,7 @@
 ## Selected work
 
 <p>
-  Two public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
+  Four selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
 </p>
 
 <table>
@@ -69,6 +73,44 @@
         <a href="https://shiataleem4.vercel.app/en"><strong>Live product ↗</strong></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/shabbirdeveloper/internationalquranlearningplatform"><strong>Repository ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://swisproperty.vercel.app/">
+        <img src="./assets/projects/swissproperty.png" width="100%" alt="SwissProperty premium property marketplace homepage" />
+      </a>
+      <h3 align="center">SwissProperty</h3>
+      <p align="center"><strong>Premium property marketplace experience</strong></p>
+      <p>
+        A polished React marketplace with URL-driven property discovery, advanced filters, saved listings, rich property galleries, responsive navigation, and an optional Supabase-backed data and admin layer.
+      </p>
+      <p align="center">
+        <code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>React Router</code> <code>Supabase</code>
+      </p>
+      <p align="center">
+        <a href="https://swisproperty.vercel.app/"><strong>Live product ↗</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/shabbirdeveloper/Realesattemarketpalce"><strong>Repository ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.naseebcapati.com/">
+        <img src="./assets/projects/naseeb-chapati.png" width="100%" alt="Naseeb Chapati multi-branch restaurant platform homepage" />
+      </a>
+      <h3 align="center">Naseeb Chapati</h3>
+      <p align="center"><strong>Multi-branch restaurant and management platform</strong></p>
+      <p>
+        A production restaurant platform combining a responsive customer experience with menus, ordering journeys, branch discovery, promotional content, and centralized data-driven management workflows.
+      </p>
+      <p align="center">
+        <code>React</code> <code>Vite</code> <code>Supabase</code> <code>Framer Motion</code> <code>Radix UI</code>
+      </p>
+      <p align="center">
+        <a href="https://www.naseebcapati.com/"><strong>Live product ↗</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/shabbirdeveloper/RestaurantplatformandManagementSystem"><strong>Repository ↗</strong></a>
       </p>
     </td>
   </tr>

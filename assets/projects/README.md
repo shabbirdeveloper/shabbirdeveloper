@@ -6,8 +6,10 @@ The profile gallery uses public-facing product imagery only. Never add dashboard
 
 - `northfxtrade.png` — public NorthFXTrade homepage at `https://northfxtradegb.vercel.app/`.
 - `shia-taleem.png` — public SHIA TALEEM homepage at `https://shiataleem4.vercel.app/en`.
+- `swissproperty.png` — public SwissProperty homepage at `https://swisproperty.vercel.app/`.
+- `naseeb-chapati.png` — public Naseeb Chapati homepage at `https://www.naseebcapati.com/`.
 
-Both images were captured from the public deployments at a desktop viewport and are optimized for the two-column GitHub gallery.
+All four images were captured from public deployments at a desktop viewport and are optimized for the two-column GitHub gallery.
 
 ## Adding another project
 
