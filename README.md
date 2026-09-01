@@ -224,32 +224,9 @@
 
 ## Engineering stack
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <strong>Frontend &amp; product UI</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&amp;theme=dark" height="42" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, and Tailwind CSS" /><br />
-      <sub>React · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <strong>Backend &amp; APIs</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,py&amp;theme=dark" height="42" alt="Node.js, FastAPI, and Python" /><br />
-      <sub>Node.js · REST APIs · FastAPI · Python · server-side architecture</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <strong>Data &amp; platform</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql&amp;theme=dark" height="42" alt="PostgreSQL, Supabase, and MySQL" /><br />
-      <sub>PostgreSQL · Supabase · MySQL · authentication · authorization</sub>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <strong>Delivery &amp; workflow</strong><br /><br />
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,postman,figma&amp;theme=dark" height="42" alt="Git, GitHub, Vercel, Docker, Visual Studio Code, Postman, and Figma" /><br />
-      <sub>Git · GitHub · Vercel · Docker · VS Code · Postman · Figma</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/graphics/engineering-stack.svg" width="100%" alt="Engineering stack covering frontend, backend, data platforms, and delivery workflow tools" />
+</p>
 
 <br />
 
