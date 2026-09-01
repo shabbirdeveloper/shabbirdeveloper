@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero/shabbir-hero.svg" width="100%" alt="Shabbir Hussain — Full-Stack Software Engineer, AI-Native Web Engineer, and Product Builder" />
+  <img src="./assets/hero/shabbir-hero.svg" width="100%" alt="Shabbir Dev — Full-Stack Software Engineer, AI-Native Web Engineer, and Product Builder" />
 </p>
 
 <p align="center">
