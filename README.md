@@ -41,7 +41,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.mytnr.org/">
-        <img src="./assets/projects/mytnr.jpg" width="100%" alt="MyTNR digital community and organization management platform" />
+        <img src="./assets/projects/animated/mytnr.svg" width="100%" alt="MyTNR digital community and organization management platform" />
       </a>
       <h3 align="center">MyTNR</h3>
       <p align="center"><strong>Digital community and organization management</strong></p>
@@ -59,7 +59,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://www.rego.services/">
-        <img src="./assets/projects/rego.webp" width="100%" alt="REGO Gilgit-Baltistan tourism marketplace homepage" />
+        <img src="./assets/projects/animated/rego.svg" width="100%" alt="REGO Gilgit-Baltistan tourism marketplace homepage" />
       </a>
       <h3 align="center">REGO</h3>
       <p align="center"><strong>Gilgit-Baltistan digital tourism marketplace</strong></p>
@@ -77,7 +77,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://northfxtradegb.vercel.app/">
-        <img src="./assets/projects/northfxtrade.png" width="100%" alt="NorthFXTrade algorithmic market analysis platform homepage" />
+        <img src="./assets/projects/animated/northfxtrade.svg" width="100%" alt="NorthFXTrade algorithmic market analysis platform homepage" />
       </a>
       <h3 align="center">NorthFXTrade</h3>
       <p align="center"><strong>Algorithmic market analysis platform</strong></p>
@@ -95,7 +95,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://swisproperty.vercel.app/">
-        <img src="./assets/projects/swissproperty.png" width="100%" alt="SwissProperty premium property marketplace homepage" />
+        <img src="./assets/projects/animated/swissproperty.svg" width="100%" alt="SwissProperty premium property marketplace homepage" />
       </a>
       <h3 align="center">SwissProperty</h3>
       <p align="center"><strong>Premium property marketplace experience</strong></p>
@@ -115,7 +115,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.naseebcapati.com/">
-        <img src="./assets/projects/naseeb-chapati.png" width="100%" alt="Naseeb Chapati multi-branch restaurant platform homepage" />
+        <img src="./assets/projects/animated/naseeb-chapati.svg" width="100%" alt="Naseeb Chapati multi-branch restaurant platform homepage" />
       </a>
       <h3 align="center">Naseeb Chapati</h3>
       <p align="center"><strong>Multi-branch restaurant and management platform</strong></p>
@@ -133,7 +133,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://skardutravelplanner.com/">
-        <img src="./assets/projects/skardu-travel-planner.webp" width="100%" alt="Skardu Travel Planner homepage" />
+        <img src="./assets/projects/animated/skardu-travel-planner.svg" width="100%" alt="Skardu Travel Planner homepage" />
       </a>
       <h3 align="center">Skardu Travel Planner</h3>
       <p align="center"><strong>Northern Pakistan travel planning platform</strong></p>
@@ -151,7 +151,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.restoranalkhalifa.com/">
-        <img src="./assets/projects/al-khalifa.webp" width="100%" alt="Al Khalifa Signature restaurant homepage" />
+        <img src="./assets/projects/animated/al-khalifa.svg" width="100%" alt="Al Khalifa Signature restaurant homepage" />
       </a>
       <h3 align="center">Al Khalifa Signature</h3>
       <p align="center"><strong>Premium Arabic restaurant experience</strong></p>
@@ -167,7 +167,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://arifaoverseas.my/">
-        <img src="./assets/projects/arifa-overseas.webp" width="100%" alt="Arifa Overseas corporate website homepage" />
+        <img src="./assets/projects/animated/arifa-overseas.svg" width="100%" alt="Arifa Overseas corporate website homepage" />
       </a>
       <h3 align="center">Arifa Overseas</h3>
       <p align="center"><strong>Construction and workforce corporate platform</strong></p>
@@ -185,7 +185,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.northdigitaltech.com/">
-        <img src="./assets/projects/northdigital-tech.webp" width="100%" alt="NorthDigital Tech official portfolio homepage" />
+        <img src="./assets/projects/animated/northdigital-tech.svg" width="100%" alt="NorthDigital Tech official portfolio homepage" />
       </a>
       <h3 align="center">NorthDigital Tech</h3>
       <p align="center"><strong>Official software house portfolio</strong></p>
@@ -201,7 +201,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://shiataleem4.vercel.app/en">
-        <img src="./assets/projects/shia-taleem.png" width="100%" alt="SHIA TALEEM multilingual online learning platform homepage" />
+        <img src="./assets/projects/animated/shia-taleem.svg" width="100%" alt="SHIA TALEEM multilingual online learning platform homepage" />
       </a>
       <h3 align="center">SHIA TALEEM</h3>
       <p align="center"><strong>Multilingual learning and operations platform</strong></p>

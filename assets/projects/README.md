@@ -17,6 +17,8 @@ The profile gallery uses public-facing product imagery only. Never add dashboard
 
 The nine product screenshots were captured from public deployments at a desktop viewport. MyTNR uses its repository-owned public hero artwork because the live animated homepage does not produce a stable clean capture. All assets are optimized for the GitHub gallery.
 
+The `animated/` directory contains GitHub-safe SVG presentation frames generated from these source images. Each frame adds a subtle staggered shimmer and breathing accent border, with a static fallback for visitors who prefer reduced motion. Regenerate them with `node scripts/generate-project-frames.mjs` after replacing a source screenshot.
+
 ## Adding another project
 
 Use a 16:9 PNG or WebP at roughly 1280×720, keep the optimized file below 300 KB where practical, and provide all of the following before adding it to `README.md`:
