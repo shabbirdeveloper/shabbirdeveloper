@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Developer identity card for Shabbir Hussain</title>
+  <desc id="desc">A compact terminal-style profile card listing Shabbir's role, product focus, frontend, backend, data, cloud platform, and Malaysia location.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#08181B"/>
+    </linearGradient>
+    <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#60A5FA" opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="330" rx="22" fill="url(#panel)"/>
+  <rect width="1200" height="330" rx="22" fill="url(#dots)"/>
+  <rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#26364B"/>
+  <path d="M0 54H1200" stroke="#26364B"/>
+
+  <circle cx="26" cy="27" r="6" fill="#FB7185"/>
+  <circle cx="48" cy="27" r="6" fill="#FBBF24"/>
+  <circle cx="70" cy="27" r="6" fill="#34D399"/>
+  <text x="600" y="32" text-anchor="middle" fill="#71849C" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="1.4">ENGINEERING IDENTITY · VERIFIED PROFILE</text>
+
+  <g font-family="Cascadia Code, Consolas, monospace" font-size="15">
+    <text x="54" y="90" fill="#2DD4BF">shabbir@portfolio</text>
+    <text x="202" y="90" fill="#94A3B8">:</text>
+    <text x="215" y="90" fill="#60A5FA">~</text>
+    <text x="231" y="90" fill="#94A3B8">$ whoami</text>
+
+    <g transform="translate(54 120)">
+      <rect x="0" y="0" width="4" height="158" rx="2" fill="#2DD4BF"/>
+
+      <text x="28" y="18" fill="#71849C">NAME</text>
+      <text x="150" y="18" fill="#F1F5F9" font-weight="700">Shabbir Hussain</text>
+
+      <text x="28" y="54" fill="#71849C">ROLE</text>
+      <text x="150" y="54" fill="#C9D7E6">Full-Stack Software Engineer</text>
+
+      <text x="28" y="90" fill="#71849C">FOCUS</text>
+      <text x="150" y="90" fill="#C9D7E6">AI-native products · SaaS · marketplaces</text>
+
+      <text x="28" y="126" fill="#71849C">LOCATION</text>
+      <text x="150" y="126" fill="#C9D7E6">Malaysia</text>
+
+      <text x="610" y="18" fill="#71849C">FRONTEND</text>
+      <text x="742" y="18" fill="#C9D7E6">React · Next.js · TypeScript</text>
+
+      <text x="610" y="54" fill="#71849C">BACKEND</text>
+      <text x="742" y="54" fill="#C9D7E6">Node.js · REST APIs · FastAPI</text>
+
+      <text x="610" y="90" fill="#71849C">DATA</text>
+      <text x="742" y="90" fill="#C9D7E6">PostgreSQL · Supabase</text>
+
+      <text x="610" y="126" fill="#71849C">SHIP</text>
+      <text x="742" y="126" fill="#C9D7E6">Vercel · modern cloud infrastructure</text>
+    </g>
+
+    <text x="54" y="302" fill="#2DD4BF">›</text>
+    <text x="78" y="302" fill="#8FA4BA">architecture → implementation → validation → deployment</text>
+    <rect x="598" y="289" width="8" height="18" rx="1" fill="#2DD4BF" opacity="0.9"/>
+  </g>
+</svg>
