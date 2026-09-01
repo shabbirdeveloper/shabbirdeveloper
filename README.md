@@ -58,6 +58,24 @@
       </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://www.rego.services/">
+        <img src="./assets/projects/rego.webp" width="100%" alt="REGO Gilgit-Baltistan tourism marketplace homepage" />
+      </a>
+      <h3 align="center">REGO</h3>
+      <p align="center"><strong>Gilgit-Baltistan digital tourism marketplace</strong></p>
+      <p>
+        A unified discovery and booking experience for hotels, tours, transport, guides, homestays, activities, and trusted local travel partners across Gilgit-Baltistan.
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>Tourism Marketplace</code> <code>Booking UX</code> <code>Search</code>
+      </p>
+      <p align="center">
+        <a href="https://www.rego.services/"><strong>Live marketplace ↗</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://northfxtradegb.vercel.app/">
         <img src="./assets/projects/northfxtrade.png" width="100%" alt="NorthFXTrade algorithmic market analysis platform homepage" />
       </a>
@@ -73,26 +91,6 @@
         <a href="https://northfxtradegb.vercel.app/"><strong>Live product ↗</strong></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/shabbirdeveloper/RealTimeTradingAnalysisPlatform"><strong>Repository ↗</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://shiataleem4.vercel.app/en">
-        <img src="./assets/projects/shia-taleem.png" width="100%" alt="SHIA TALEEM multilingual online learning platform homepage" />
-      </a>
-      <h3 align="center">SHIA TALEEM</h3>
-      <p align="center"><strong>Multilingual learning and operations platform</strong></p>
-      <p>
-        A role-based online learning platform with localized LTR/RTL experiences, Supabase authentication, PostgreSQL row-level security, protected operations, and learner-specific portals.
-      </p>
-      <p align="center">
-        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code>
-      </p>
-      <p align="center">
-        <a href="https://shiataleem4.vercel.app/en"><strong>Live product ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/shabbirdeveloper/internationalquranlearningplatform"><strong>Repository ↗</strong></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -134,24 +132,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.rego.services/">
-        <img src="./assets/projects/rego.webp" width="100%" alt="REGO Gilgit-Baltistan tourism marketplace homepage" />
-      </a>
-      <h3 align="center">REGO</h3>
-      <p align="center"><strong>Gilgit-Baltistan digital tourism marketplace</strong></p>
-      <p>
-        A unified discovery and booking experience for hotels, tours, transport, guides, homestays, activities, and trusted local travel partners across Gilgit-Baltistan.
-      </p>
-      <p align="center">
-        <code>Next.js</code> <code>Tourism Marketplace</code> <code>Booking UX</code> <code>Search</code>
-      </p>
-      <p align="center">
-        <a href="https://www.rego.services/"><strong>Live marketplace ↗</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://skardutravelplanner.com/">
         <img src="./assets/projects/skardu-travel-planner.webp" width="100%" alt="Skardu Travel Planner homepage" />
       </a>
@@ -167,6 +147,8 @@
         <a href="https://skardutravelplanner.com/"><strong>Live platform ↗</strong></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://www.restoranalkhalifa.com/">
         <img src="./assets/projects/al-khalifa.webp" width="100%" alt="Al Khalifa Signature restaurant homepage" />
@@ -183,8 +165,6 @@
         <a href="https://www.restoranalkhalifa.com/"><strong>Live website ↗</strong></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://arifaoverseas.my/">
         <img src="./assets/projects/arifa-overseas.webp" width="100%" alt="Arifa Overseas corporate website homepage" />
@@ -201,6 +181,8 @@
         <a href="https://arifaoverseas.my/"><strong>Live website ↗</strong></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://www.northdigitaltech.com/">
         <img src="./assets/projects/northdigital-tech.webp" width="100%" alt="NorthDigital Tech official portfolio homepage" />
@@ -215,6 +197,24 @@
       </p>
       <p align="center">
         <a href="https://www.northdigitaltech.com/"><strong>Official portfolio ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://shiataleem4.vercel.app/en">
+        <img src="./assets/projects/shia-taleem.png" width="100%" alt="SHIA TALEEM multilingual online learning platform homepage" />
+      </a>
+      <h3 align="center">SHIA TALEEM</h3>
+      <p align="center"><strong>Multilingual learning and operations platform</strong></p>
+      <p>
+        A role-based online learning platform with localized LTR/RTL experiences, Supabase authentication, PostgreSQL row-level security, protected operations, and learner-specific portals.
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code>
+      </p>
+      <p align="center">
+        <a href="https://shiataleem4.vercel.app/en"><strong>Live product ↗</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/shabbirdeveloper/internationalquranlearningplatform"><strong>Repository ↗</strong></a>
       </p>
     </td>
   </tr>
