@@ -306,13 +306,13 @@
         I'm open to conversations around full-stack products, SaaS platforms, marketplaces, AI-native web applications, and modernizing business software.
       </p>
       <p>
-        <a href="https://www.northdigitaltech.com/"><strong>Portfolio ↗</strong></a>
-        &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/shabbir-hussain-88a959290/"><strong>LinkedIn ↗</strong></a>
-        &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="mailto:northdigitaltech@gmail.com"><strong>Email ↗</strong></a>
-        &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://github.com/shabbirdeveloper"><strong>GitHub ↗</strong></a>
+        <a href="https://www.northdigitaltech.com/"><img src="https://img.shields.io/badge/Portfolio-NorthDigital_Tech-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" height="28" alt="Visit the NorthDigital Tech portfolio" /></a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/shabbir-hussain-88a959290/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" height="28" alt="Connect with Shabbir Hussain on LinkedIn" /></a>
+        &nbsp;
+        <a href="mailto:northdigitaltech@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" height="28" alt="Email Shabbir Hussain using Gmail" /></a>
+        &nbsp;
+        <a href="https://github.com/shabbirdeveloper"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="28" alt="Follow shabbirdeveloper on GitHub" /></a>
       </p>
       <p><sub>Based in Malaysia · Building for clients and products worldwide</sub></p>
     </td>
