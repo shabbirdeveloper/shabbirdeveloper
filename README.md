@@ -275,16 +275,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shabbirdeveloper&amp;theme=github_dark" width="100%" alt="Shabbir Hussain's live GitHub contribution and repository activity summary" />
 </p>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shabbirdeveloper&amp;theme=github_dark" width="100%" alt="Live GitHub statistics for shabbirdeveloper" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shabbirdeveloper&amp;theme=github_dark" width="100%" alt="Repository languages used by shabbirdeveloper" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shabbirdeveloper&amp;theme=github_dark" width="49%" alt="Live GitHub statistics for shabbirdeveloper" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shabbirdeveloper&amp;theme=github_dark" width="49%" alt="Repository languages used by shabbirdeveloper" />
+</p>
 
 <p align="center">
   <a href="https://github.com/shabbirdeveloper">
