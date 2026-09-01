@@ -39,34 +39,24 @@
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <table>
-        <tr>
-          <td width="50%" valign="middle">
-            <a href="https://www.mytnr.org/">
-              <img src="./assets/projects/mytnr.jpg" width="100%" alt="MyTNR digital community and organization management platform" />
-            </a>
-          </td>
-          <td width="50%" valign="middle">
-            <h3 align="center">MyTNR · Flagship Community Platform</h3>
-            <p align="center"><strong>Digital community and organization management</strong></p>
-            <p>
-              A production platform for Tehreek-e-Nojawanan Roundu supporting member registration, verification and approval, role-based administration, organizational leadership, opportunities, application workflows, notifications, directories, and reporting.
-            </p>
-            <p align="center">
-              <code>Next.js</code> <code>React</code> <code>Supabase</code> <code>Framer Motion</code> <code>Cloudinary</code>
-            </p>
-            <p align="center">
-              <a href="https://www.mytnr.org/"><strong>Live platform ↗</strong></a>
-              &nbsp;·&nbsp;
-              <a href="https://github.com/tnrorg/mytnrorg"><strong>Repository ↗</strong></a>
-            </p>
-          </td>
-        </tr>
-      </table>
+    <td width="50%" valign="top">
+      <a href="https://www.mytnr.org/">
+        <img src="./assets/projects/mytnr.jpg" width="100%" alt="MyTNR digital community and organization management platform" />
+      </a>
+      <h3 align="center">MyTNR</h3>
+      <p align="center"><strong>Digital community and organization management</strong></p>
+      <p>
+        A production platform for Tehreek-e-Nojawanan Roundu supporting member registration, verification and approval, role-based administration, organizational leadership, opportunities, application workflows, notifications, directories, and reporting.
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>React</code> <code>Supabase</code> <code>Framer Motion</code> <code>Cloudinary</code>
+      </p>
+      <p align="center">
+        <a href="https://www.mytnr.org/"><strong>Live platform ↗</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/tnrorg/mytnrorg"><strong>Repository ↗</strong></a>
+      </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://northfxtradegb.vercel.app/">
         <img src="./assets/projects/northfxtrade.png" width="100%" alt="NorthFXTrade algorithmic market analysis platform homepage" />
@@ -85,6 +75,8 @@
         <a href="https://github.com/shabbirdeveloper/RealTimeTradingAnalysisPlatform"><strong>Repository ↗</strong></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://shiataleem4.vercel.app/en">
         <img src="./assets/projects/shia-taleem.png" width="100%" alt="SHIA TALEEM multilingual online learning platform homepage" />
@@ -103,8 +95,6 @@
         <a href="https://github.com/shabbirdeveloper/internationalquranlearningplatform"><strong>Repository ↗</strong></a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://swisproperty.vercel.app/">
         <img src="./assets/projects/swissproperty.png" width="100%" alt="SwissProperty premium property marketplace homepage" />
@@ -123,6 +113,8 @@
         <a href="https://github.com/shabbirdeveloper/Realesattemarketpalce"><strong>Repository ↗</strong></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://www.naseebcapati.com/">
         <img src="./assets/projects/naseeb-chapati.png" width="100%" alt="Naseeb Chapati multi-branch restaurant platform homepage" />
