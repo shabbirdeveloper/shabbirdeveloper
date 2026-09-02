@@ -283,6 +283,10 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-Backend_%26_AI-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python for backend and AI engineering" />
+</p>
+
+<p align="center">
   <a href="https://github.com/shabbirdeveloper">
     <img src="https://ghchart.rshah.org/2F81F7/shabbirdeveloper" width="100%" alt="Live GitHub contribution calendar for shabbirdeveloper" />
   </a>
