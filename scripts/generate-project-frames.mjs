@@ -16,6 +16,8 @@ const projects = [
   { slug: "arifa-overseas", source: "arifa-overseas.webp", title: "Arifa Overseas", colors: ["#0EA5E9", "#67E8F9"] },
   { slug: "northdigital-tech", source: "northdigital-tech.webp", title: "NorthDigital Tech", colors: ["#06B6D4", "#3B82F6"] },
   { slug: "shia-taleem", source: "shia-taleem.png", title: "SHIA TALEEM", colors: ["#7C3AED", "#38BDF8"] },
+  { slug: "cythetic", source: "cythetic.webp", title: "Cythetic Asia", colors: ["#D4A72C", "#F8FAFC"] },
+  { slug: "northpair", source: "northpair.webp", title: "NorthPair", colors: ["#F8FAFC", "#64748B"] },
 ];
 
 const detectMimeType = (image, fileName) => {

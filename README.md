@@ -27,10 +27,44 @@
 ## Latest Projects
 
 <p>
-  Ten selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
+  Twelve selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
 </p>
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cythetic.asia/">
+        <img src="./assets/projects/animated/cythetic.svg" width="100%" alt="Cythetic Asia ready-to-wear and custom apparel storefront homepage" />
+      </a>
+      <h3 align="center">Cythetic Asia</h3>
+      <p align="center"><strong>Ready-to-wear and custom apparel commerce</strong></p>
+      <p>
+        A retail and custom-merchandise platform combining ready-to-wear collections, best sellers, new arrivals, custom apparel orders, corporate gifts, and an agent and business-partner journey.
+      </p>
+      <p align="center">
+        <code>E-commerce</code> <code>Ready-to-Wear</code> <code>Custom Orders</code> <code>Responsive Web</code>
+      </p>
+      <p align="center">
+        <a href="https://cythetic.asia/"><strong>Live storefront ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://northpair.com/">
+        <img src="./assets/projects/animated/northpair.svg" width="100%" alt="NorthPair premium footwear storefront homepage" />
+      </a>
+      <h3 align="center">NorthPair</h3>
+      <p align="center"><strong>Premium footwear shopping experience</strong></p>
+      <p>
+        A polished footwear storefront built around premium collections, category discovery, new arrivals, best sellers, product browsing, and clear shopping journeys for men's and women's styles.
+      </p>
+      <p align="center">
+        <code>E-commerce</code> <code>Product Catalog</code> <code>Shopping UX</code> <code>Responsive Web</code>
+      </p>
+      <p align="center">
+        <a href="https://northpair.com/"><strong>Live storefront ↗</strong></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.mytnr.org/">
