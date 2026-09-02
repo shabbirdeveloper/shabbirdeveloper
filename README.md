@@ -24,7 +24,7 @@
 
 <br />
 
-## Selected work
+## Latest Projects
 
 <p>
   Ten selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
