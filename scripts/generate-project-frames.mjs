@@ -18,6 +18,7 @@ const projects = [
   { slug: "shia-taleem", source: "shia-taleem.png", title: "SHIA TALEEM", colors: ["#7C3AED", "#38BDF8"] },
   { slug: "cythetic", source: "cythetic.webp", title: "Cythetic Asia", colors: ["#D4A72C", "#F8FAFC"] },
   { slug: "northpair", source: "northpair.webp", title: "NorthPair", colors: ["#F8FAFC", "#64748B"] },
+  { slug: "green-hills-education", source: "green-hills-education.webp", title: "Green Hills Education System", colors: ["#008A4B", "#FFD400"] },
 ];
 
 const detectMimeType = (image, fileName) => {

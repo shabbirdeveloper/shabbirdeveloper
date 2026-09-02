@@ -27,7 +27,7 @@
 ## Latest Projects
 
 <p>
-  Twelve selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
+  Thirteen selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
 </p>
 
 <table>
@@ -210,6 +210,25 @@
         <a href="https://github.com/shabbirdeveloper/internationalquranlearningplatform"><strong>Repository ↗</strong></a>
       </p>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://greenhillseducationsystem.com/">
+        <img src="./assets/projects/animated/green-hills-education.svg" width="100%" alt="Green Hills Education System admissions and school platform homepage" />
+      </a>
+      <h3 align="center">Green Hills Education System</h3>
+      <p align="center"><strong>School admissions and community platform</strong></p>
+      <p>
+        A comprehensive Nursery-to-FSc education platform presenting admissions, administration, careers, school programs, campus information, galleries, alumni achievements, results, and direct enrollment journeys.
+      </p>
+      <p align="center">
+        <code>Education Platform</code> <code>Admissions</code> <code>School Portal</code> <code>Responsive Web</code>
+      </p>
+      <p align="center">
+        <a href="https://greenhillseducationsystem.com/"><strong>Live website ↗</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
