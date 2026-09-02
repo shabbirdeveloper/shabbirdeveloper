@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-labelledby="title desc">
+  <title id="title">Core Languages</title>
+  <desc id="desc">A four-part donut chart showing JavaScript, TypeScript, Python, and HTML as core engineering languages.</desc>
+
+  <style>
+    * { font-family: "Segoe UI", Ubuntu, "Helvetica Neue", Arial, sans-serif; }
+    .segment {
+      animation: reveal .9s cubic-bezier(.2,.8,.2,1) both;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    .segment:nth-of-type(2) { animation-delay: .10s; }
+    .segment:nth-of-type(3) { animation-delay: .20s; }
+    .segment:nth-of-type(4) { animation-delay: .30s; }
+    .legend { animation: fade-in .7s ease-out both; }
+    .legend:nth-of-type(2) { animation-delay: .08s; }
+    .legend:nth-of-type(3) { animation-delay: .16s; }
+    .legend:nth-of-type(4) { animation-delay: .24s; }
+    @keyframes reveal {
+      from { opacity: 0; transform: scale(.82); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    @keyframes fade-in {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .segment, .legend { animation: none; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="338" height="198" rx="6" fill="#071525" stroke="#23415C" stroke-width="1.5" />
+  <text x="30" y="40" font-size="22" font-weight="500" fill="#38BDF8">Core Languages</text>
+
+  <g font-size="14" fill="#B8C7D9">
+    <g class="legend" transform="translate(40 58)">
+      <rect width="14" height="14" fill="#F1E05A" />
+      <text x="22" y="12">JavaScript</text>
+    </g>
+    <g class="legend" transform="translate(40 83)">
+      <rect width="14" height="14" fill="#3178C6" />
+      <text x="22" y="12">TypeScript</text>
+    </g>
+    <g class="legend" transform="translate(40 108)">
+      <rect width="14" height="14" fill="#3572A5" />
+      <text x="22" y="12">Python</text>
+    </g>
+    <g class="legend" transform="translate(40 133)">
+      <rect width="14" height="14" fill="#E34C26" />
+      <text x="22" y="12">HTML</text>
+    </g>
+  </g>
+
+  <g transform="translate(230 120) rotate(-90)" fill="none" stroke-width="25">
+    <circle r="47.5" stroke="#102638" />
+    <circle class="segment" r="47.5" pathLength="100" stroke="#F1E05A" stroke-dasharray="25 75" stroke-dashoffset="0" />
+    <circle class="segment" r="47.5" pathLength="100" stroke="#3178C6" stroke-dasharray="25 75" stroke-dashoffset="-25" />
+    <circle class="segment" r="47.5" pathLength="100" stroke="#3572A5" stroke-dasharray="25 75" stroke-dashoffset="-50" />
+    <circle class="segment" r="47.5" pathLength="100" stroke="#E34C26" stroke-dasharray="25 75" stroke-dashoffset="-75" />
+  </g>
+  <circle cx="230" cy="120" r="34.5" fill="#071525" />
+</svg>

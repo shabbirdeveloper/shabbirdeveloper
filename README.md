@@ -279,11 +279,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shabbirdeveloper&amp;theme=github_dark&amp;bg_color=071525&amp;border_color=23415C&amp;title_color=38BDF8&amp;text_color=B8C7D9&amp;icon_color=2DD4BF&amp;chart_color=38BDF8&amp;animation=load&amp;duration=2.8" width="49%" alt="Live GitHub statistics for shabbirdeveloper" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shabbirdeveloper&amp;theme=github_dark&amp;bg_color=071525&amp;border_color=23415C&amp;title_color=38BDF8&amp;text_color=B8C7D9&amp;icon_color=2DD4BF&amp;chart_color=38BDF8&amp;animation=load&amp;duration=2.8" width="49%" alt="Repository languages used by shabbirdeveloper" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Backend_%26_AI-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=FFD43B" alt="Python for backend and AI engineering" />
+  <img src="./assets/graphics/core-languages.svg?v=python-20260903" width="49%" alt="Core languages: JavaScript, TypeScript, Python, and HTML" />
 </p>
 
 <p align="center">
@@ -292,7 +288,7 @@
   </a>
 </p>
 
-<p align="center"><sub>Live public data—no contribution counts or achievement claims are hard-coded.</sub></p>
+<p align="center"><sub>GitHub contribution and repository statistics are live; the core-language card summarizes my active engineering stack.</sub></p>
 
 <br />
 
