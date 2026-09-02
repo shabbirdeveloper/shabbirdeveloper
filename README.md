@@ -27,7 +27,7 @@
 ## Latest Projects
 
 <p>
-  Thirteen selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
+  Twelve selected public products that show how I approach product design, application architecture, secure data workflows, and polished delivery.
 </p>
 
 <table>
@@ -193,26 +193,6 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://shiataleem4.vercel.app/en">
-        <img src="./assets/projects/animated/shia-taleem.svg" width="100%" alt="SHIA TALEEM multilingual online learning platform homepage" />
-      </a>
-      <h3 align="center">SHIA TALEEM</h3>
-      <p align="center"><strong>Multilingual learning and operations platform</strong></p>
-      <p>
-        A role-based online learning platform with localized LTR/RTL experiences, Supabase authentication, PostgreSQL row-level security, protected operations, and learner-specific portals.
-      </p>
-      <p align="center">
-        <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Supabase</code>
-      </p>
-      <p align="center">
-        <a href="https://shiataleem4.vercel.app/en"><strong>Live product ↗</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/shabbirdeveloper/internationalquranlearningplatform"><strong>Repository ↗</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <a href="https://greenhillseducationsystem.com/">
         <img src="./assets/projects/animated/green-hills-education.svg" width="100%" alt="Green Hills Education System admissions and school platform homepage" />
       </a>
@@ -228,7 +208,6 @@
         <a href="https://greenhillseducationsystem.com/"><strong>Live website ↗</strong></a>
       </p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
   <tr>
     <td width="50%" valign="top">
