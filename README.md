@@ -278,7 +278,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shabbirdeveloper&amp;theme=github_dark&amp;bg_color=071525&amp;border_color=23415C&amp;title_color=38BDF8&amp;text_color=B8C7D9&amp;icon_color=2DD4BF&amp;chart_color=38BDF8&amp;animation=load&amp;duration=2.8" width="49%" alt="Live GitHub statistics for shabbirdeveloper" />
   <img src="./assets/graphics/core-languages.svg?v=python-20260903" width="49%" alt="Core languages: JavaScript, TypeScript, Python, and HTML" />
 </p>
 
@@ -288,7 +287,7 @@
   </a>
 </p>
 
-<p align="center"><sub>GitHub contribution and repository statistics are live; the core-language card summarizes my active engineering stack.</sub></p>
+<p align="center"><sub>GitHub contribution activity is live; the core-language card summarizes my active engineering stack.</sub></p>
 
 <br />
 
