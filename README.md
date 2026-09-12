@@ -211,22 +211,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://cythetic.asia/">
-        <img src="./assets/projects/animated/cythetic.svg" width="100%" alt="Cythetic Asia ready-to-wear and custom apparel storefront homepage" />
-      </a>
-      <h3 align="center">Cythetic Asia</h3>
-      <p align="center"><strong>Ready-to-wear and custom apparel commerce</strong></p>
-      <p>
-        A retail and custom-merchandise platform combining ready-to-wear collections, best sellers, new arrivals, custom apparel orders, corporate gifts, and an agent and business-partner journey.
-      </p>
-      <p align="center">
-        <code>E-commerce</code> <code>Ready-to-Wear</code> <code>Custom Orders</code> <code>Responsive Web</code>
-      </p>
-      <p align="center">
-        <a href="https://cythetic.asia/"><strong>Live storefront ↗</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <a href="https://northpair.com/">
         <img src="./assets/projects/animated/northpair.svg" width="100%" alt="NorthPair premium footwear storefront homepage" />
       </a>
